@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.2">
+  <compounddef id="classsms__beta_1_1_s_m_s__beta" kind="class" prot="public">
+    <compoundname>sms_beta::SMS_beta</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classsms__beta_1_1_s_m_s__beta_1ad669be48db36df0fa7d368cc32ecbc37" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer sms_beta.SMS_beta.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer> null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.Designer.cs" line="8" bodyfile="G:/sms_beta/sms_beta/Form1.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classsms__beta_1_1_s_m_s__beta_1a52140fb412d27f330e2ed720d4334927" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.ComboBox</type>
+        <definition>System.Windows.Forms.ComboBox sms_beta.SMS_beta.cb_port_name</definition>
+        <argsstring></argsstring>
+        <name>cb_port_name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.Designer.cs" line="121" bodyfile="G:/sms_beta/sms_beta/Form1.Designer.cs" bodystart="121" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classsms__beta_1_1_s_m_s__beta_1a6fd45948aee77f54509709762d70a3b6" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox sms_beta.SMS_beta.tb_text_message</definition>
+        <argsstring></argsstring>
+        <name>tb_text_message</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.Designer.cs" line="122" bodyfile="G:/sms_beta/sms_beta/Form1.Designer.cs" bodystart="122" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classsms__beta_1_1_s_m_s__beta_1a6bfa789a65a878aaf3d42b98ad0d2772" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button sms_beta.SMS_beta.bt_send_message</definition>
+        <argsstring></argsstring>
+        <name>bt_send_message</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.Designer.cs" line="123" bodyfile="G:/sms_beta/sms_beta/Form1.Designer.cs" bodystart="123" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classsms__beta_1_1_s_m_s__beta_1ab3957ea47b61f8fcfe13bd65d1c63ab5" prot="private" static="no" mutable="no">
+        <type>System.IO.Ports.SerialPort</type>
+        <definition>System.IO.Ports.SerialPort sms_beta.SMS_beta.sp_connection</definition>
+        <argsstring></argsstring>
+        <name>sp_connection</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.Designer.cs" line="124" bodyfile="G:/sms_beta/sms_beta/Form1.Designer.cs" bodystart="124" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classsms__beta_1_1_s_m_s__beta_1ab7a7d332f2b4878037b8d23502529713" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button sms_beta.SMS_beta.bt_refresh</definition>
+        <argsstring></argsstring>
+        <name>bt_refresh</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.Designer.cs" line="125" bodyfile="G:/sms_beta/sms_beta/Form1.Designer.cs" bodystart="125" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classsms__beta_1_1_s_m_s__beta_1a1462b6b5f3213f62ddbdd364ee0c6e80" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox sms_beta.SMS_beta.tb_communicates</definition>
+        <argsstring></argsstring>
+        <name>tb_communicates</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.Designer.cs" line="126" bodyfile="G:/sms_beta/sms_beta/Form1.Designer.cs" bodystart="126" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classsms__beta_1_1_s_m_s__beta_1a68b18bfaa8bce72fefe1d1d29741b251" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox sms_beta.SMS_beta.tb_phone_number</definition>
+        <argsstring></argsstring>
+        <name>tb_phone_number</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.Designer.cs" line="127" bodyfile="G:/sms_beta/sms_beta/Form1.Designer.cs" bodystart="127" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1ae11024545823375efc017b72a6f1c90d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>sms_beta.SMS_beta.SMS_beta</definition>
+        <argsstring>()</argsstring>
+        <name>SMS_beta</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.cs" line="21" bodyfile="G:/sms_beta/sms_beta/Form1.cs" bodystart="20" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1aa814b2e463635840f66b8ae38202fee5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void sms_beta.SMS_beta.port_init</definition>
+        <argsstring>()</argsstring>
+        <name>port_init</name>
+        <briefdescription>
+<para>wyczyszczenie starej listy aktywnych portów, uzupełnienie jej o aktualne </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.cs" line="38" bodyfile="G:/sms_beta/sms_beta/Form1.cs" bodystart="37" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1aa423556b3faefda78d5afc73d501f429" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void sms_beta.SMS_beta.refresh_port</definition>
+        <argsstring>(object avaliable_ports)</argsstring>
+        <name>refresh_port</name>
+        <param>
+          <type>object</type>
+          <declname>avaliable_ports</declname>
+        </param>
+        <briefdescription>
+<para>funkcja odpowiedzialna za odświeżenie aktywnych portów </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>avaliable_ports</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.cs" line="49" bodyfile="G:/sms_beta/sms_beta/Form1.cs" bodystart="48" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1ae9b60e09589d0bd9a8ebbd9d73021f89" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void sms_beta.SMS_beta.send_message</definition>
+        <argsstring>()</argsstring>
+        <name>send_message</name>
+        <briefdescription>
+<para>wysyłanie wiadomości; otwarcie połaczenia--&gt;wysłanie--&gt;zamknięcie </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.cs" line="80" bodyfile="G:/sms_beta/sms_beta/Form1.cs" bodystart="79" bodyend="107"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1a7cbe889f0e328fc1eb5b284afacbe370" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void sms_beta.SMS_beta.SMS_beta_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>SMS_beta_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>funkcja odpowiedzialna za ładowanie aktywnych portów do comboboxa </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.cs" line="30" bodyfile="G:/sms_beta/sms_beta/Form1.cs" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1a88405343228c29c7fffe86b36c353d67" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void sms_beta.SMS_beta.bt_send_message_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>bt_send_message_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>funkcja odpowiedzialna za wysyłanie wiadomości tekstowej </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.cs" line="62" bodyfile="G:/sms_beta/sms_beta/Form1.cs" bodystart="61" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1a02e0b6699d52f9f93287d95d7a6e920d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void sms_beta.SMS_beta.bt_refresh_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>bt_refresh_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.cs" line="110" bodyfile="G:/sms_beta/sms_beta/Form1.cs" bodystart="109" bodyend="112"/>
+      </memberdef>
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1adc8dda478e43017df7b4b09da3e345d7" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>delegate void</type>
+        <definition>delegate void sms_beta.SMS_beta.SetTextCallback</definition>
+        <argsstring>(string text)</argsstring>
+        <name>SetTextCallback</name>
+        <param>
+          <type>string</type>
+          <declname>text</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.cs" line="114"/>
+      </memberdef>
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1a1c4f7888d11bda5dc3ba87db0d05e265" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void sms_beta.SMS_beta.Output</definition>
+        <argsstring>(string text)</argsstring>
+        <name>Output</name>
+        <param>
+          <type>string</type>
+          <declname>text</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.cs" line="117" bodyfile="G:/sms_beta/sms_beta/Form1.cs" bodystart="116" bodyend="128"/>
+      </memberdef>
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1a5ac300f7855c841bead839c96c24a866" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void sms_beta.SMS_beta.Output</definition>
+        <argsstring>(string text, params object[] args)</argsstring>
+        <name>Output</name>
+        <param>
+          <type>string</type>
+          <declname>text</declname>
+        </param>
+        <param>
+          <type>params object[]</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.cs" line="131" bodyfile="G:/sms_beta/sms_beta/Form1.cs" bodystart="130" bodyend="134"/>
+      </memberdef>
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1a818b91933cb9b2d70a3a40124ba41025" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void sms_beta.SMS_beta.cb_port_name_SelectedIndexChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>cb_port_name_SelectedIndexChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.cs" line="137" bodyfile="G:/sms_beta/sms_beta/Form1.cs" bodystart="136" bodyend="139"/>
+      </memberdef>
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1a903f0862a1c36b6e497b889331787dd0" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void sms_beta.SMS_beta.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.Designer.cs" line="30" bodyfile="G:/sms_beta/sms_beta/Form1.Designer.cs" bodystart="29" bodyend="117"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classsms__beta_1_1_s_m_s__beta_1a9449c898dcbad1b6dddd7055b6d2c281" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void sms_beta.SMS_beta.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Form1.Designer.cs" line="15" bodyfile="G:/sms_beta/sms_beta/Form1.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="8">
+        <label>System</label>
+      </node>
+      <node id="7">
+        <label>sms_beta.SMS_beta</label>
+        <link refid="classsms__beta_1_1_s_m_s__beta"/>
+        <childnode refid="8" relation="usage">
+          <edgelabel>sp_connection</edgelabel>
+          <edgelabel>bt_refresh</edgelabel>
+          <edgelabel>bt_send_message</edgelabel>
+          <edgelabel>tb_text_message</edgelabel>
+          <edgelabel>components</edgelabel>
+          <edgelabel>cb_port_name</edgelabel>
+          <edgelabel>tb_communicates</edgelabel>
+          <edgelabel>tb_phone_number</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="G:/sms_beta/sms_beta/Form1.cs" line="19" bodyfile="G:/sms_beta/sms_beta/Form1.cs" bodystart="18" bodyend="142"/>
+    <listofallmembers>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1ab7a7d332f2b4878037b8d23502529713" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>bt_refresh</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a02e0b6699d52f9f93287d95d7a6e920d" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>bt_refresh_Click</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a6bfa789a65a878aaf3d42b98ad0d2772" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>bt_send_message</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a88405343228c29c7fffe86b36c353d67" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>bt_send_message_Click</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a52140fb412d27f330e2ed720d4334927" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>cb_port_name</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a818b91933cb9b2d70a3a40124ba41025" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>cb_port_name_SelectedIndexChanged</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1ad669be48db36df0fa7d368cc32ecbc37" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>components</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a9449c898dcbad1b6dddd7055b6d2c281" prot="protected" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>Dispose</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a903f0862a1c36b6e497b889331787dd0" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>InitializeComponent</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a1c4f7888d11bda5dc3ba87db0d05e265" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>Output</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a5ac300f7855c841bead839c96c24a866" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>Output</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1aa814b2e463635840f66b8ae38202fee5" prot="public" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>port_init</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1aa423556b3faefda78d5afc73d501f429" prot="public" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>refresh_port</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1ae9b60e09589d0bd9a8ebbd9d73021f89" prot="public" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>send_message</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1adc8dda478e43017df7b4b09da3e345d7" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>SetTextCallback</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1ae11024545823375efc017b72a6f1c90d" prot="public" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>SMS_beta</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a7cbe889f0e328fc1eb5b284afacbe370" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>SMS_beta_Load</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1ab3957ea47b61f8fcfe13bd65d1c63ab5" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>sp_connection</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a1462b6b5f3213f62ddbdd364ee0c6e80" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>tb_communicates</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a68b18bfaa8bce72fefe1d1d29741b251" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>tb_phone_number</name></member>
+      <member refid="classsms__beta_1_1_s_m_s__beta_1a6fd45948aee77f54509709762d70a3b6" prot="private" virt="non-virtual"><scope>sms_beta::SMS_beta</scope><name>tb_text_message</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

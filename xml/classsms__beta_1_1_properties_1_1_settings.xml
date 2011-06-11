@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.2">
+  <compounddef id="classsms__beta_1_1_properties_1_1_settings" kind="class" prot="public">
+    <compoundname>sms_beta::Properties::Settings</compoundname>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classsms__beta_1_1_properties_1_1_settings_1a7632669ffe2172a32db8442f760de28f" prot="private" static="yes" mutable="no">
+        <type><ref refid="classsms__beta_1_1_properties_1_1_settings" kindref="compound">Settings</ref></type>
+        <definition>Settings sms_beta.Properties.Settings.defaultInstance</definition>
+        <argsstring></argsstring>
+        <name>defaultInstance</name>
+        <initializer> ((<ref refid="classsms__beta_1_1_properties_1_1_settings" kindref="compound">Settings</ref>)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new <ref refid="classsms__beta_1_1_properties_1_1_settings" kindref="compound">Settings</ref>())))</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Properties/Settings.Designer.cs" line="20" bodyfile="G:/sms_beta/sms_beta/Properties/Settings.Designer.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="classsms__beta_1_1_properties_1_1_settings_1a3d0e010814875457c4b56e08f293ee71" prot="public" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type><ref refid="classsms__beta_1_1_properties_1_1_settings" kindref="compound">Settings</ref></type>
+        <definition>Settings sms_beta.Properties.Settings.Default</definition>
+        <argsstring></argsstring>
+        <name>Default</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Properties/Settings.Designer.cs" line="28" bodyfile="G:/sms_beta/sms_beta/Properties/Settings.Designer.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="5">
+        <label>sms_beta.Properties.Settings</label>
+        <link refid="classsms__beta_1_1_properties_1_1_settings"/>
+        <childnode refid="5" relation="usage">
+          <edgelabel>defaultInstance</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="G:/sms_beta/sms_beta/Properties/Settings.Designer.cs" line="18" bodyfile="G:/sms_beta/sms_beta/Properties/Settings.Designer.cs" bodystart="17" bodyend="29"/>
+    <listofallmembers>
+      <member refid="classsms__beta_1_1_properties_1_1_settings_1a3d0e010814875457c4b56e08f293ee71" prot="public" virt="non-virtual"><scope>sms_beta::Properties::Settings</scope><name>Default</name></member>
+      <member refid="classsms__beta_1_1_properties_1_1_settings_1a7632669ffe2172a32db8442f760de28f" prot="private" virt="non-virtual"><scope>sms_beta::Properties::Settings</scope><name>defaultInstance</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

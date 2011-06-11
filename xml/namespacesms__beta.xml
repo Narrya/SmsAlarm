@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.2">
+  <compounddef id="namespacesms__beta" kind="namespace">
+    <compoundname>sms_beta</compoundname>
+    <innerclass refid="classsms__beta_1_1_s_m_s__beta" prot="public">sms_beta::SMS_beta</innerclass>
+    <innerclass refid="classsms__beta_1_1_program" prot="public">sms_beta::Program</innerclass>
+    <innernamespace refid="namespacesms__beta_1_1_properties">sms_beta::Properties</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="G:/sms_beta/sms_beta/Form1.cs" line="17"/>
+  </compounddef>
+</doxygen>

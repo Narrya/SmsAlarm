@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.2">
+  <compounddef id="dir_cf06a8e44584c6c2c1a93ad72495977d" kind="dir">
+    <compoundname>G:/sms_beta/sms_beta/</compoundname>
+    <innerdir refid="dir_ad113ef0007ae3130c1d8685308eca5f">G:/sms_beta/sms_beta/Properties/</innerdir>
+    <innerfile refid="_form1_8cs">Form1.cs</innerfile>
+    <innerfile refid="_form1_8_designer_8cs">Form1.Designer.cs</innerfile>
+    <innerfile refid="_program_8cs">Program.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="G:/sms_beta/sms_beta/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.7.2">
+  <compound refid="classsms__beta_1_1_program" kind="class"><name>sms_beta::Program</name>
+    <member refid="classsms__beta_1_1_program_1aff2e78c3aa380467967d6cff267a4158" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="classsms__beta_1_1_properties_1_1_resources" kind="class"><name>sms_beta::Properties::Resources</name>
+    <member refid="classsms__beta_1_1_properties_1_1_resources_1ab533397981d38b54b93123740374451a" kind="variable"><name>resourceMan</name></member>
+    <member refid="classsms__beta_1_1_properties_1_1_resources_1a240daf82581321d8391852478577aea2" kind="variable"><name>resourceCulture</name></member>
+    <member refid="classsms__beta_1_1_properties_1_1_resources_1a767b0bf01c3d6325b7ecf4a140da356d" kind="property"><name>ResourceManager</name></member>
+    <member refid="classsms__beta_1_1_properties_1_1_resources_1a392b9a1c35186583fb7d5955e59a97d8" kind="property"><name>Culture</name></member>
+    <member refid="classsms__beta_1_1_properties_1_1_resources_1a245cef3acfe00f4da183b3ca71696ce9" kind="function"><name>Resources</name></member>
+  </compound>
+  <compound refid="classsms__beta_1_1_properties_1_1_settings" kind="class"><name>sms_beta::Properties::Settings</name>
+    <member refid="classsms__beta_1_1_properties_1_1_settings_1a7632669ffe2172a32db8442f760de28f" kind="variable"><name>defaultInstance</name></member>
+    <member refid="classsms__beta_1_1_properties_1_1_settings_1a3d0e010814875457c4b56e08f293ee71" kind="property"><name>Default</name></member>
+  </compound>
+  <compound refid="classsms__beta_1_1_s_m_s__beta" kind="class"><name>sms_beta::SMS_beta</name>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1ad669be48db36df0fa7d368cc32ecbc37" kind="variable"><name>components</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a52140fb412d27f330e2ed720d4334927" kind="variable"><name>cb_port_name</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a6fd45948aee77f54509709762d70a3b6" kind="variable"><name>tb_text_message</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a6bfa789a65a878aaf3d42b98ad0d2772" kind="variable"><name>bt_send_message</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1ab3957ea47b61f8fcfe13bd65d1c63ab5" kind="variable"><name>sp_connection</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1ab7a7d332f2b4878037b8d23502529713" kind="variable"><name>bt_refresh</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a1462b6b5f3213f62ddbdd364ee0c6e80" kind="variable"><name>tb_communicates</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a68b18bfaa8bce72fefe1d1d29741b251" kind="variable"><name>tb_phone_number</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1ae11024545823375efc017b72a6f1c90d" kind="function"><name>SMS_beta</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1aa814b2e463635840f66b8ae38202fee5" kind="function"><name>port_init</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1aa423556b3faefda78d5afc73d501f429" kind="function"><name>refresh_port</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1ae9b60e09589d0bd9a8ebbd9d73021f89" kind="function"><name>send_message</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a7cbe889f0e328fc1eb5b284afacbe370" kind="function"><name>SMS_beta_Load</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a88405343228c29c7fffe86b36c353d67" kind="function"><name>bt_send_message_Click</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a02e0b6699d52f9f93287d95d7a6e920d" kind="function"><name>bt_refresh_Click</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1adc8dda478e43017df7b4b09da3e345d7" kind="function"><name>SetTextCallback</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a1c4f7888d11bda5dc3ba87db0d05e265" kind="function"><name>Output</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a5ac300f7855c841bead839c96c24a866" kind="function"><name>Output</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a818b91933cb9b2d70a3a40124ba41025" kind="function"><name>cb_port_name_SelectedIndexChanged</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a903f0862a1c36b6e497b889331787dd0" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classsms__beta_1_1_s_m_s__beta_1a9449c898dcbad1b6dddd7055b6d2c281" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="namespace_gsm_comm_1_1_gsm_communication" kind="namespace"><name>GsmComm::GsmCommunication</name>
+  </compound>
+  <compound refid="namespace_gsm_comm_1_1_interfaces" kind="namespace"><name>GsmComm::Interfaces</name>
+  </compound>
+  <compound refid="namespace_gsm_comm_1_1_pdu_converter" kind="namespace"><name>GsmComm::PduConverter</name>
+  </compound>
+  <compound refid="namespace_gsm_comm_1_1_pdu_converter_1_1_smart_messaging" kind="namespace"><name>GsmComm::PduConverter::SmartMessaging</name>
+  </compound>
+  <compound refid="namespace_gsm_comm_1_1_server" kind="namespace"><name>GsmComm::Server</name>
+  </compound>
+  <compound refid="namespacesms__beta" kind="namespace"><name>sms_beta</name>
+  </compound>
+  <compound refid="namespacesms__beta_1_1_properties" kind="namespace"><name>sms_beta::Properties</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_component_model" kind="namespace"><name>System::ComponentModel</name>
+  </compound>
+  <compound refid="namespace_system_1_1_data" kind="namespace"><name>System::Data</name>
+  </compound>
+  <compound refid="namespace_system_1_1_drawing" kind="namespace"><name>System::Drawing</name>
+  </compound>
+  <compound refid="namespace_system_1_1_linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="namespace_system_1_1_reflection" kind="namespace"><name>System::Reflection</name>
+  </compound>
+  <compound refid="namespace_system_1_1_runtime_1_1_compiler_services" kind="namespace"><name>System::Runtime::CompilerServices</name>
+  </compound>
+  <compound refid="namespace_system_1_1_runtime_1_1_interop_services" kind="namespace"><name>System::Runtime::InteropServices</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespace_system_1_1_windows_1_1_forms" kind="namespace"><name>System::Windows::Forms</name>
+  </compound>
+  <compound refid="_form1_8cs" kind="file"><name>Form1.cs</name>
+  </compound>
+  <compound refid="_form1_8_designer_8cs" kind="file"><name>Form1.Designer.cs</name>
+  </compound>
+  <compound refid="_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_assembly_info_8cs" kind="file"><name>AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_resources_8_designer_8cs" kind="file"><name>Resources.Designer.cs</name>
+  </compound>
+  <compound refid="_settings_8_designer_8cs" kind="file"><name>Settings.Designer.cs</name>
+  </compound>
+  <compound refid="dir_934f46a345653ef2b3014a1b37a162c1" kind="dir"><name>G:/</name>
+  </compound>
+  <compound refid="dir_ad113ef0007ae3130c1d8685308eca5f" kind="dir"><name>G:/sms_beta/sms_beta/Properties/</name>
+  </compound>
+  <compound refid="dir_cf06a8e44584c6c2c1a93ad72495977d" kind="dir"><name>G:/sms_beta/sms_beta/</name>
+  </compound>
+  <compound refid="dir_39af37cef61ac0434026590b97de277e" kind="dir"><name>G:/sms_beta/</name>
+  </compound>
+</doxygenindex>

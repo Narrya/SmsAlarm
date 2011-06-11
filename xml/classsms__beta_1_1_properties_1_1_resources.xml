@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.2">
+  <compounddef id="classsms__beta_1_1_properties_1_1_resources" kind="class" prot="public">
+    <compoundname>sms_beta::Properties::Resources</compoundname>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classsms__beta_1_1_properties_1_1_resources_1ab533397981d38b54b93123740374451a" prot="private" static="yes" mutable="no">
+        <type>global::System.Resources.ResourceManager</type>
+        <definition>global::System.Resources.ResourceManager sms_beta.Properties.Resources.resourceMan</definition>
+        <argsstring></argsstring>
+        <name>resourceMan</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Properties/Resources.Designer.cs" line="28" bodyfile="G:/sms_beta/sms_beta/Properties/Resources.Designer.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classsms__beta_1_1_properties_1_1_resources_1a240daf82581321d8391852478577aea2" prot="private" static="yes" mutable="no">
+        <type>global::System.Globalization.CultureInfo</type>
+        <definition>global::System.Globalization.CultureInfo sms_beta.Properties.Resources.resourceCulture</definition>
+        <argsstring></argsstring>
+        <name>resourceCulture</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Properties/Resources.Designer.cs" line="30" bodyfile="G:/sms_beta/sms_beta/Properties/Resources.Designer.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="classsms__beta_1_1_properties_1_1_resources_1a767b0bf01c3d6325b7ecf4a140da356d" prot="private" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type>internal global::System.Resources.ResourceManager</type>
+        <definition>internal global::System.Resources.ResourceManager sms_beta.Properties.Resources.ResourceManager</definition>
+        <argsstring></argsstring>
+        <name>ResourceManager</name>
+        <briefdescription>
+<para>Returns the cached ResourceManager instance used by this class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Properties/Resources.Designer.cs" line="52" bodyfile="G:/sms_beta/sms_beta/Properties/Resources.Designer.cs" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classsms__beta_1_1_properties_1_1_resources_1a392b9a1c35186583fb7d5955e59a97d8" prot="private" static="yes" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>internal global::System.Globalization.CultureInfo</type>
+        <definition>internal global::System.Globalization.CultureInfo sms_beta.Properties.Resources.Culture</definition>
+        <argsstring></argsstring>
+        <name>Culture</name>
+        <briefdescription>
+<para>Overrides the current thread&apos;s CurrentUICulture property for all resource lookups using this strongly typed resource class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Properties/Resources.Designer.cs" line="69" bodyfile="G:/sms_beta/sms_beta/Properties/Resources.Designer.cs" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classsms__beta_1_1_properties_1_1_resources_1a245cef3acfe00f4da183b3ca71696ce9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>internal</type>
+        <definition>internal sms_beta.Properties.Resources.Resources</definition>
+        <argsstring>()</argsstring>
+        <name>Resources</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/sms_beta/sms_beta/Properties/Resources.Designer.cs" line="34" bodyfile="G:/sms_beta/sms_beta/Properties/Resources.Designer.cs" bodystart="33" bodyend="35"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A strongly-typed resource class, for looking up localized strings, etc. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="3">
+        <label>sms_beta.Properties.Resources</label>
+        <link refid="classsms__beta_1_1_properties_1_1_resources"/>
+        <childnode refid="3" relation="usage">
+          <edgelabel>resourceMan</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="G:/sms_beta/sms_beta/Properties/Resources.Designer.cs" line="26" bodyfile="G:/sms_beta/sms_beta/Properties/Resources.Designer.cs" bodystart="25" bodyend="70"/>
+    <listofallmembers>
+      <member refid="classsms__beta_1_1_properties_1_1_resources_1a392b9a1c35186583fb7d5955e59a97d8" prot="private" virt="non-virtual"><scope>sms_beta::Properties::Resources</scope><name>Culture</name></member>
+      <member refid="classsms__beta_1_1_properties_1_1_resources_1a240daf82581321d8391852478577aea2" prot="private" virt="non-virtual"><scope>sms_beta::Properties::Resources</scope><name>resourceCulture</name></member>
+      <member refid="classsms__beta_1_1_properties_1_1_resources_1ab533397981d38b54b93123740374451a" prot="private" virt="non-virtual"><scope>sms_beta::Properties::Resources</scope><name>resourceMan</name></member>
+      <member refid="classsms__beta_1_1_properties_1_1_resources_1a767b0bf01c3d6325b7ecf4a140da356d" prot="private" virt="non-virtual"><scope>sms_beta::Properties::Resources</scope><name>ResourceManager</name></member>
+      <member refid="classsms__beta_1_1_properties_1_1_resources_1a245cef3acfe00f4da183b3ca71696ce9" prot="private" virt="non-virtual"><scope>sms_beta::Properties::Resources</scope><name>Resources</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

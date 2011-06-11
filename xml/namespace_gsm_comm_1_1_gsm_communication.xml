@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.2">
+  <compounddef id="namespace_gsm_comm_1_1_gsm_communication" kind="namespace">
+    <compoundname>GsmComm::GsmCommunication</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="G:/sms_beta/sms_beta/Form1.cs" line="12"/>
+  </compounddef>
+</doxygen>

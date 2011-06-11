@@ -1,0 +1,69 @@
+C:\Users\Kamila\Documents\Visual Studio 2008\Projects\sms_beta\sms_beta\bin\Debug\sms_beta.exe
+C:\Users\Kamila\Documents\Visual Studio 2008\Projects\sms_beta\sms_beta\bin\Debug\sms_beta.pdb
+C:\Users\Kamila\Documents\Visual Studio 2008\Projects\sms_beta\sms_beta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kamila\Documents\Visual Studio 2008\Projects\sms_beta\sms_beta\obj\Debug\sms_beta.Properties.Resources.resources
+C:\Users\Kamila\Documents\Visual Studio 2008\Projects\sms_beta\sms_beta\obj\Debug\sms_beta.csproj.GenerateResource.Cache
+C:\Users\Kamila\Documents\Visual Studio 2008\Projects\sms_beta\sms_beta\obj\Debug\sms_beta.exe
+C:\Users\Kamila\Documents\Visual Studio 2008\Projects\sms_beta\sms_beta\obj\Debug\sms_beta.pdb
+C:\Users\Kamila\Documents\Visual Studio 2008\Projects\sms_beta\sms_beta\obj\Debug\sms_beta.SMS_beta.resources
+C:\Documents and Settings\pan_yanek\Pulpit\sms_beta\sms_beta\obj\Debug\sms_beta.exe
+C:\Documents and Settings\pan_yanek\Pulpit\sms_beta\sms_beta\obj\Debug\sms_beta.pdb
+C:\Documents and Settings\pan_yanek\Pulpit\sms_beta\sms_beta\bin\Debug\sms_beta.exe
+C:\Documents and Settings\pan_yanek\Pulpit\sms_beta\sms_beta\bin\Debug\sms_beta.pdb
+C:\Documents and Settings\pan_yanek\Pulpit\sms_beta\sms_beta\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pan_yanek\Pulpit\sms_beta\sms_beta\obj\Debug\sms_beta.SMS_beta.resources
+C:\Documents and Settings\pan_yanek\Pulpit\sms_beta\sms_beta\obj\Debug\sms_beta.Properties.Resources.resources
+C:\Documents and Settings\pan_yanek\Pulpit\sms_beta\sms_beta\obj\Debug\sms_beta.csproj.GenerateResource.Cache
+C:\Documents and Settings\pan_yanek\Pulpit\sms_beta\sms_beta\bin\Debug\GSMCommServer.dll
+C:\Documents and Settings\pan_yanek\Pulpit\sms_beta\sms_beta\bin\Debug\GSMCommShared.dll
+C:\Documents and Settings\pan_yanek\Pulpit\sms_beta\sms_beta\bin\Debug\GSMCommunication.dll
+C:\Documents and Settings\pan_yanek\Pulpit\sms_beta\sms_beta\bin\Debug\PDUConverter.dll
+C:\Users\Kamila\Desktop\sms_beta\sms_beta\obj\Debug\sms_beta.exe
+C:\Users\Kamila\Desktop\sms_beta\sms_beta\obj\Debug\sms_beta.pdb
+C:\Users\Kamila\Desktop\sms_beta\sms_beta\bin\Debug\sms_beta.exe
+C:\Users\Kamila\Desktop\sms_beta\sms_beta\bin\Debug\sms_beta.pdb
+C:\Users\Kamila\Desktop\sms_beta\sms_beta\bin\Debug\GSMCommServer.dll
+C:\Users\Kamila\Desktop\sms_beta\sms_beta\bin\Debug\GSMCommShared.dll
+C:\Users\Kamila\Desktop\sms_beta\sms_beta\bin\Debug\GSMCommunication.dll
+C:\Users\Kamila\Desktop\sms_beta\sms_beta\bin\Debug\PDUConverter.dll
+C:\Users\Kamila\Desktop\sms_beta\sms_beta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kamila\Desktop\sms_beta\sms_beta\obj\Debug\sms_beta.SMS_beta.resources
+C:\Users\Kamila\Desktop\sms_beta\sms_beta\obj\Debug\sms_beta.Properties.Resources.resources
+C:\Users\Kamila\Desktop\sms_beta\sms_beta\obj\Debug\sms_beta.csproj.GenerateResource.Cache
+C:\Users\Kamila\Desktop\semestr letni 2010\sms_beta\sms_beta\obj\Debug\sms_beta.exe
+C:\Users\Kamila\Desktop\semestr letni 2010\sms_beta\sms_beta\bin\Debug\sms_beta.exe
+C:\Users\Kamila\Desktop\semestr letni 2010\sms_beta\sms_beta\bin\Debug\sms_beta.pdb
+C:\Users\Kamila\Desktop\semestr letni 2010\sms_beta\sms_beta\bin\Debug\GSMCommServer.dll
+C:\Users\Kamila\Desktop\semestr letni 2010\sms_beta\sms_beta\bin\Debug\GSMCommShared.dll
+C:\Users\Kamila\Desktop\semestr letni 2010\sms_beta\sms_beta\bin\Debug\GSMCommunication.dll
+C:\Users\Kamila\Desktop\semestr letni 2010\sms_beta\sms_beta\bin\Debug\PDUConverter.dll
+C:\Users\Kamila\Desktop\semestr letni 2010\sms_beta\sms_beta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kamila\Desktop\semestr letni 2010\sms_beta\sms_beta\obj\Debug\sms_beta.SMS_beta.resources
+C:\Users\Kamila\Desktop\semestr letni 2010\sms_beta\sms_beta\obj\Debug\sms_beta.Properties.Resources.resources
+C:\Users\Kamila\Desktop\semestr letni 2010\sms_beta\sms_beta\obj\Debug\sms_beta.csproj.GenerateResource.Cache
+C:\Users\Kamila\Desktop\semestr letni 2010\sms_beta\sms_beta\obj\Debug\sms_beta.pdb
+G:\sms_beta\sms_beta\obj\Debug\sms_beta.exe
+G:\sms_beta\sms_beta\obj\Debug\sms_beta.pdb
+G:\sms_beta\sms_beta\bin\Debug\sms_beta.exe
+G:\sms_beta\sms_beta\bin\Debug\sms_beta.pdb
+G:\sms_beta\sms_beta\bin\Debug\GSMCommServer.dll
+G:\sms_beta\sms_beta\bin\Debug\GSMCommShared.dll
+G:\sms_beta\sms_beta\bin\Debug\GSMCommunication.dll
+G:\sms_beta\sms_beta\bin\Debug\PDUConverter.dll
+G:\sms_beta\sms_beta\obj\Debug\ResolveAssemblyReference.cache
+G:\sms_beta\sms_beta\obj\Debug\sms_beta.SMS_beta.resources
+G:\sms_beta\sms_beta\obj\Debug\sms_beta.Properties.Resources.resources
+G:\sms_beta\sms_beta\obj\Debug\sms_beta.csproj.GenerateResource.Cache
+C:\Kamila\IB\semestr letni 2010\Programy sprawdzić\sms_beta Kamila Kupidura IB1\sms_beta\obj\Debug\sms_beta.exe
+C:\Kamila\IB\semestr letni 2010\Programy sprawdzić\sms_beta Kamila Kupidura IB1\sms_beta\obj\Debug\sms_beta.pdb
+C:\Kamila\IB\semestr letni 2010\Programy sprawdzić\sms_beta Kamila Kupidura IB1\sms_beta\bin\Debug\sms_beta.exe
+C:\Kamila\IB\semestr letni 2010\Programy sprawdzić\sms_beta Kamila Kupidura IB1\sms_beta\bin\Debug\sms_beta.pdb
+C:\Kamila\IB\semestr letni 2010\Programy sprawdzić\sms_beta Kamila Kupidura IB1\sms_beta\bin\Debug\GSMCommServer.dll
+C:\Kamila\IB\semestr letni 2010\Programy sprawdzić\sms_beta Kamila Kupidura IB1\sms_beta\bin\Debug\GSMCommShared.dll
+C:\Kamila\IB\semestr letni 2010\Programy sprawdzić\sms_beta Kamila Kupidura IB1\sms_beta\bin\Debug\GSMCommunication.dll
+C:\Kamila\IB\semestr letni 2010\Programy sprawdzić\sms_beta Kamila Kupidura IB1\sms_beta\bin\Debug\PDUConverter.dll
+C:\Kamila\IB\semestr letni 2010\Programy sprawdzić\sms_beta Kamila Kupidura IB1\sms_beta\obj\Debug\ResolveAssemblyReference.cache
+C:\Kamila\IB\semestr letni 2010\Programy sprawdzić\sms_beta Kamila Kupidura IB1\sms_beta\obj\Debug\sms_beta.SMS_beta.resources
+C:\Kamila\IB\semestr letni 2010\Programy sprawdzić\sms_beta Kamila Kupidura IB1\sms_beta\obj\Debug\sms_beta.Properties.Resources.resources
+C:\Users\user\Desktop\repo\SmsAlarm\sms_beta\obj\Debug\sms_beta.exe
+C:\Users\user\Desktop\repo\SmsAlarm\sms_beta\obj\Debug\sms_beta.pdb
